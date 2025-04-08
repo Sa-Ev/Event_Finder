@@ -39,6 +39,12 @@
     └── ...
 ```
 
-## Скриншот интерфейса
+## 🖼 Демонстрация
 
-<img src="images/GitHub_Event_Finder.png" width="800" alt="Главная страница">
+<img src="images/GitHub_Event_Finder.png" width="800" alt="Скриншот интерфейса" style="border-radius: 8px; border: 1px solid #eee;">
+
+_Интерфейс приложения - главная страница_
+
+---
+
+[![Open in Visual Studio Code](https://img.shields.io/badge/-Open%20in%20VSCode-007ACC?logo=visualstudiocode)](https://vscode.dev/github/ваш-логин/Event_Finder)
