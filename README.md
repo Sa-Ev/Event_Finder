@@ -23,28 +23,22 @@
   - `Any category` → категории (Business, Technology и др.)
 - Карточки мероприятий (статичные данные)
 
-## 🗂 Структура проекта
+## 📁 Структура проекта
 
 ```
 /Event_Finder
-├── index1.html         # Главная страница
-├── index2.html         # Страница фильтрации
+├── index1.html        # Главная страница
+├── index2.html       # Страница фильтрации
 ├── css/
-│   ├── style.css       # Основные стили
-│   └── style2.css      # Дополнительные стили
+│   └── style.css     # Стили
+│   └── style2.css     # Стили
 ├── js/
-│   └── script.js       # Логика фильтров
-└── images/
+│   └── script.js     # Логика фильтрации
+└── images/           # Изображения
     ├── GitHub_Event_Finder.png
-    └── ...             # Другие изображения
+    └── ...
 ```
 
-## 🖼 Демонстрация
+## Скриншот интерфейса
 
-<img src="images/GitHub_Event_Finder.png" width="800" alt="Скриншот интерфейса" style="border-radius: 8px; border: 1px solid #eee;">
-
-_Интерфейс приложения - главная страница_
-
----
-
-[![Open in Visual Studio Code](https://img.shields.io/badge/-Open%20in%20VSCode-007ACC?logo=visualstudiocode)](https://vscode.dev/github/ваш-логин/Event_Finder)
+<img src="images/GitHub_Event_Finder.png" width="800" alt="Главная страница">
